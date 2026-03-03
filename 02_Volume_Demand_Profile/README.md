@@ -39,8 +39,7 @@
 ## Modelo
 
 ### Volume / Demand Profile
-
-$$ POC = \operatorname*{argmax}_b \; freq(b) \qquad VA = \left\{ b : \sum_{b \in VA} freq(b) \geq 0.70 \times n_{total} \right\} $$
+$$ POC = \arg\max_{b} freq(b) \qquad VA = \left\lbrace b : \sum_{b \in VA} freq(b) \ge 0.70 \times n_{total} \right\rbrace $$
 
 | Variable | En trading | En Supply Chain |
 |----------|-----------|-----------------|
