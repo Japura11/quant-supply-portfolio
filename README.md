@@ -96,7 +96,7 @@ Este portafolio implementa el **Quant-Supply Framework v4** — metodología de 
 ## Progreso
 
 - [x] **01** · RSI / MACD / Bollinger Bands
-- [ ] **02** · Volume & Demand Profile (Point of Control)
+- [x] **02** · Volume & Demand Profile (Point of Control)
 - [ ] **03** · HMM / Regime Switching
 - [ ] **04** · GARCH / EGARCH / Volatilidad condicional
 - [ ] **05** · Realized Volatility + HAR-RV
