@@ -12,8 +12,8 @@
 quant-supply-portfolio/
 │
 ├── 01_RSI_MACD_Demand/          ← RSI, MACD, Bollinger Bands
-├── 02_Volume_Demand_Profile/    ← Point of Control, Value Area (próximo)
-├── 03_HMM_Regime_Switching/     ← Hidden Markov Models (próximo)
+├── 02_Volume_Demand_Profile/    ← Point of Control, Value Area 
+├── 03_HMM_Regime_Switching/     ← Hidden Markov Models 
 ├── 04_GARCH_Volatility/         ← GARCH, EGARCH, GJR-GARCH (próximo)
 ├── 05_Realized_Volatility_HAR/  ← RV, HAR-RV (próximo)
 ├── 06_Hurst_MeanReversion/      ← Hurst Exponent, ADF (próximo)
