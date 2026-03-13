@@ -14,8 +14,8 @@ quant-supply-portfolio/
 ├── 01_RSI_MACD_Demand/          ← RSI, MACD, Bollinger Bands
 ├── 02_Volume_Demand_Profile/    ← Point of Control, Value Area 
 ├── 03_HMM_Regime_Switching/     ← Hidden Markov Models 
-├── 04_GARCH_Volatility/         ← GARCH, EGARCH, GJR-GARCH (próximo)
-├── 05_Realized_Volatility_HAR/  ← RV, HAR-RV (próximo)
+├── 04_GARCH_Volatility/         ← GARCH, EGARCH, GJR-GARCH 
+├── 05_Realized_Volatility_HAR/  ← RV, HAR-RV 
 ├── 06_Hurst_MeanReversion/      ← Hurst Exponent, ADF (próximo)
 ├── 07_Quantile_EVT/             ← Quantile Regression, GEV, GPD (próximo)
 ├── 08_Cointegration_Spread/     ← Engle-Granger, VECM (próximo)
@@ -97,9 +97,9 @@ Este portafolio implementa el **Quant-Supply Framework v4** — metodología de 
 
 - [x] **01** · RSI / MACD / Bollinger Bands
 - [x] **02** · Volume & Demand Profile (Point of Control)
-- [ ] **03** · HMM / Regime Switching
-- [ ] **04** · GARCH / EGARCH / Volatilidad condicional
-- [ ] **05** · Realized Volatility + HAR-RV
+- [x] **03** · HMM / Regime Switching
+- [x] **04** · GARCH / EGARCH / Volatilidad condicional
+- [x] **05** · Realized Volatility + HAR-RV
 - [ ] **06** · Hurst Exponent + Mean-Reversion
 - [ ] **07** · Quantile Regression + EVT
 - [ ] **08** · Cointegración + Spread Analysis
