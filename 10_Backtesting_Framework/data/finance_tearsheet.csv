@@ -1,0 +1,5 @@
+Estrategia,Ret. anual,Sharpe,Sortino,Max Drawdown,Calmar,Hit Rate,Profit Factor
+Buy & Hold,10.85%,0.625,0.973,-58.96%,0.184,51.8%,1.109
+Momentum (MACD),8.33%,0.609,0.729,-36.22%,0.230,30.9%,1.141
+Mean-Rev (RSI),5.25%,0.555,0.808,-31.76%,0.165,47.5%,1.103
+Regime (Vol),6.25%,0.453,0.609,-54.04%,0.116,39.0%,1.090

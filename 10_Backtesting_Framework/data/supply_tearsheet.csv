@@ -1,0 +1,5 @@
+Política,Ahorro μ/sem,Ahorro anual,Sharpe,Sortino,Max Drawdown,Calmar,Hit Rate
+GARCH SS dinámico,S/.47.7,"S/.2,482",2.093,3.027,"S/.-5,473",0.453,66.5%
+HMM por régimen,S/.128.4,"S/.6,677",1.705,1.141,"S/.-7,165",0.932,84.9%
+QR empírica p95,S/.116.2,"S/.6,045",3.653,2.777,"S/.-2,550",2.370,94.5%
+Factor BCRP,S/.-17.4,S/.-904,-1.208,-1.201,"S/.-6,360",-0.142,41.2%
